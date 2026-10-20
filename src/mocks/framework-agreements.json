@@ -1,0 +1,93 @@
+[
+  {
+    "id": "fa-001", "agreementId": "CM-MOCK-001", "agreementName": "Convenio Marco Computadores (ficticio)",
+    "sku": "NB-1001", "name": "Notebook 15\" Core i5 16GB", "description": "Computador portátil de 15 pulgadas, 16 GB RAM, SSD 512 GB, garantía 3 años.",
+    "keywords": ["notebook", "computador", "portatil", "laptop", "pc"], "category": "Computadores portátiles",
+    "supplierName": "Proveedor Ficticio Alfa SpA", "brand": "Marca A", "model": "Pro 15", "priceClp": 649990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/NB-1001", "validUntil": "2027-06-30"
+  },
+  {
+    "id": "fa-002", "agreementId": "CM-MOCK-001", "agreementName": "Convenio Marco Computadores (ficticio)",
+    "sku": "NB-1002", "name": "Notebook 14\" Core i7 32GB", "description": "Computador portátil liviano de 14 pulgadas para uso profesional, 32 GB RAM, SSD 1 TB.",
+    "keywords": ["notebook", "computador", "portatil", "laptop", "ultraliviano"], "category": "Computadores portátiles",
+    "supplierName": "Proveedor Ficticio Beta Ltda.", "brand": "Marca B", "model": "Slim 14", "priceClp": 1149990, "stockStatus": "LIMITED",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/NB-1002", "validUntil": "2027-06-30"
+  },
+  {
+    "id": "fa-003", "agreementId": "CM-MOCK-002", "agreementName": "Convenio Marco Monitores (ficticio)",
+    "sku": "MN-2001", "name": "Monitor LED 24\" Full HD", "description": "Monitor de 24 pulgadas Full HD con entrada HDMI y ajuste de altura.",
+    "keywords": ["monitor", "pantalla", "led", "24", "full hd"], "category": "Monitores",
+    "supplierName": "Proveedor Ficticio Gamma SpA", "brand": "Marca C", "model": "View 24", "priceClp": 129990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/MN-2001", "validUntil": "2027-03-31"
+  },
+  {
+    "id": "fa-004", "agreementId": "CM-MOCK-002", "agreementName": "Convenio Marco Monitores (ficticio)",
+    "sku": "MN-2002", "name": "Monitor 27\" 4K", "description": "Monitor de 27 pulgadas resolución 4K para diseño y análisis de datos.",
+    "keywords": ["monitor", "pantalla", "4k", "27"], "category": "Monitores",
+    "supplierName": "Proveedor Ficticio Delta SpA", "brand": "Marca D", "model": "Ultra 27", "priceClp": 289990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/MN-2002", "validUntil": "2027-03-31"
+  },
+  {
+    "id": "fa-005", "agreementId": "CM-MOCK-003", "agreementName": "Convenio Marco Mobiliario de Oficina (ficticio)",
+    "sku": "SL-3001", "name": "Silla ergonómica de oficina", "description": "Silla de oficina ergonómica con respaldo de malla, apoyabrazos regulables y base con ruedas.",
+    "keywords": ["silla", "oficina", "ergonomica", "escritorio", "mobiliario"], "category": "Sillas de oficina",
+    "supplierName": "Muebles Ficticios Epsilon Ltda.", "brand": "Marca E", "model": "Confort", "priceClp": 119990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/SL-3001", "validUntil": "2027-01-31"
+  },
+  {
+    "id": "fa-006", "agreementId": "CM-MOCK-003", "agreementName": "Convenio Marco Mobiliario de Oficina (ficticio)",
+    "sku": "SL-3002", "name": "Silla de visita apilable", "description": "Silla de visita apilable de polipropileno para salas de reunión.",
+    "keywords": ["silla", "visita", "apilable", "reunion"], "category": "Sillas de oficina",
+    "supplierName": "Muebles Ficticios Epsilon Ltda.", "brand": "Marca E", "model": "Visita", "priceClp": 39990, "stockStatus": "LIMITED",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/SL-3002", "validUntil": "2027-01-31"
+  },
+  {
+    "id": "fa-007", "agreementId": "CM-MOCK-003", "agreementName": "Convenio Marco Mobiliario de Oficina (ficticio)",
+    "sku": "MB-3101", "name": "Escritorio operativo 140 cm", "description": "Escritorio de oficina de 140 x 70 cm con cajonera móvil.",
+    "keywords": ["escritorio", "mesa", "oficina", "mobiliario", "cajonera"], "category": "Mobiliario",
+    "supplierName": "Muebles Ficticios Zeta SpA", "brand": "Marca Z", "model": "Operativo 140", "priceClp": 159990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/MB-3101", "validUntil": "2027-01-31"
+  },
+  {
+    "id": "fa-008", "agreementId": "CM-MOCK-004", "agreementName": "Convenio Marco Útiles de Oficina (ficticio)",
+    "sku": "PP-4001", "name": "Resma papel carta 75 g", "description": "Resma de 500 hojas de papel tamaño carta, 75 gramos, blancura 95%.",
+    "keywords": ["papel", "resma", "carta", "fotocopia", "oficina"], "category": "Papel tamaño carta",
+    "supplierName": "Papelería Ficticia Eta SpA", "brand": "Marca H", "model": "Carta 75", "priceClp": 3990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/PP-4001", "validUntil": "2027-02-28"
+  },
+  {
+    "id": "fa-009", "agreementId": "CM-MOCK-005", "agreementName": "Convenio Marco Impresoras (ficticio)",
+    "sku": "IM-5001", "name": "Impresora láser monocromática", "description": "Impresora láser monocromática de red con impresión dúplex automática.",
+    "keywords": ["impresora", "laser", "monocromatica", "duplex", "red"], "category": "Impresoras",
+    "supplierName": "Proveedor Ficticio Theta SpA", "brand": "Marca T", "model": "Laser M40", "priceClp": 189990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/IM-5001", "validUntil": "2027-04-30"
+  },
+  {
+    "id": "fa-010", "agreementId": "CM-MOCK-005", "agreementName": "Convenio Marco Impresoras (ficticio)",
+    "sku": "IM-5002", "name": "Impresora multifuncional color", "description": "Impresora multifuncional a color con escáner, copiadora y conexión inalámbrica.",
+    "keywords": ["impresora", "multifuncional", "color", "escaner", "wifi"], "category": "Impresoras",
+    "supplierName": "Proveedor Ficticio Iota Ltda.", "brand": "Marca I", "model": "Multi C60", "priceClp": 259990, "stockStatus": "UNAVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/IM-5002", "validUntil": "2027-04-30"
+  },
+  {
+    "id": "fa-011", "agreementId": "CM-MOCK-006", "agreementName": "Convenio Marco Servicios de Nube (ficticio)",
+    "sku": "NU-6001", "name": "Servicio de nube – máquina virtual estándar", "description": "Servicio de infraestructura en la nube: máquina virtual estándar, facturación mensual.",
+    "keywords": ["nube", "cloud", "servidor", "virtual", "hosting", "servicio"], "category": "Servicios de nube",
+    "supplierName": "Nube Ficticia Kappa SpA", "priceClp": 45000, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/NU-6001", "validUntil": "2027-12-31"
+  },
+  {
+    "id": "fa-012", "agreementId": "CM-MOCK-007", "agreementName": "Convenio Marco Artículos de Aseo (ficticio)",
+    "sku": "AS-7001", "name": "Detergente multiuso 5 litros", "description": "Detergente líquido multiuso para limpieza de superficies, bidón de 5 litros.",
+    "keywords": ["aseo", "limpieza", "detergente", "multiuso", "desinfectante"], "category": "Artículos de aseo",
+    "supplierName": "Higiene Ficticia Lambda SpA", "brand": "Marca L", "model": "Multi 5L", "priceClp": 8990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/AS-7001", "validUntil": "2027-05-31"
+  },
+  {
+    "id": "fa-013", "agreementId": "CM-MOCK-007", "agreementName": "Convenio Marco Artículos de Aseo (ficticio)",
+    "sku": "AS-7002", "name": "Papel higiénico institucional", "description": "Papel higiénico jumbo institucional, caja de 12 rollos.",
+    "keywords": ["aseo", "papel", "higienico", "banos", "institucional"], "category": "Artículos de aseo",
+    "supplierName": "Higiene Ficticia Lambda SpA", "brand": "Marca L", "model": "Jumbo", "priceClp": 24990, "stockStatus": "AVAILABLE",
+    "imageUrl": "/placeholders/product.svg", "productUrl": "https://example.invalid/convenio-marco/AS-7002", "validUntil": "2027-05-31"
+  }
+]
